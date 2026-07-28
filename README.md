@@ -153,16 +153,16 @@ AI-Health-Assistant/
 ├── README.md  
 │  
 ├── dataset/  
-│     ├── kidney.csv  
-│     ├── liver.csv  
-│     └── parkinsons.csv  
+│       ├── kidney.csv  
+│       ├── liver.csv  
+│       └── parkinsons.csv  
 │  
 └── images/  
-      ├── home.png  
-      ├── kidney.png  
-      ├── liver.png  
-      ├── parkinsons.png  
-      
+        ├── home.png  
+        ├── kidney.png  
+        ├── liver.png  
+        ├── parkinsons.png  
+       
 ## 📸 Application Screenshots
 ### 🏠 Home Page
 
