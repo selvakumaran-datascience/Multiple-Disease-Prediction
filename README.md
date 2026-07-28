@@ -150,8 +150,7 @@ AI-Health-Assistant/
 │        ├── liver.csv  
 │        └── parkinsons.csv  
 │  
-└── images/     
-           ├── home.png  
+└── images/    
            ├── kidney.png  
            ├── liver.png  
            ├── parkinsons.png  
