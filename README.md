@@ -173,20 +173,20 @@ AI-Health-Assistant/
 ### 🧠 Parkinson's Prediction
 
 ## 📊 Project Workflow
- Patient Details
-        │
+ Patient Details  
+        │   
         ▼
- Input Validation
-        │
+ Input Validation  
+        │    
         ▼
- Preprocessing
-        │
+ Preprocessing  
+        │  
         ▼
- Machine Learning Model
-        │
+ Machine Learning Model  
+        │  
         ▼
- Disease Prediction
-        │
+ Disease Prediction  
+        │  
         ▼
  Prediction Result
 ## 💻 Installation
