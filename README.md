@@ -164,13 +164,13 @@ AI-Health-Assistant/
          ├── parkinsons.png  
         
 ## 📸 Application Screenshots
-### 🏠 Home Page
 
 ### 🩸 Kidney Prediction
-
+<img width="1920" height="1610" alt="screencapture-localhost-8501-2026-07-28-16_44_33" src="https://github.com/user-attachments/assets/b50c11e6-583c-465e-88ab-2664175779f7" />
 ### 🫀 Liver Prediction
-
+<img width="1920" height="1295" alt="screencapture-localhost-8501-2026-07-28-16_44_14" src="https://github.com/user-attachments/assets/3ae97d4d-4937-498f-bd90-e10dcd862691" />
 ### 🧠 Parkinson's Prediction
+<img width="1920" height="1400" alt="screencapture-localhost-8501-2026-07-28-16_43_55" src="https://github.com/user-attachments/assets/92ad59e9-da95-4148-8852-7f453d6a08c6" />
 
 ## 📊 Project Workflow
  Patient Details  
