@@ -96,6 +96,7 @@ PPE
 ✅ Secure Model Loading
 
 ## 🛠 Technology Stack
+
 Category	Technologies
 Programming	Python
 Machine Learning	Scikit-Learn
@@ -104,6 +105,7 @@ Data Analysis	Pandas, NumPy
 Model Storage	Pickle
 Development	Jupyter Notebook
 Visualization	Matplotlib, Seaborn
+
 ## 🧠 Machine Learning Workflow
 Medical Dataset
        │
@@ -127,6 +129,7 @@ Model Serialization (.pkl)
        │
        ▼
 Streamlit Deployment
+
 ## 📂 Project Structure
 AI-Health-Assistant/
 │
@@ -152,44 +155,33 @@ AI-Health-Assistant/
       ├── kidney.png
       ├── liver.png
       ├── parkinsons.png
+      
 ## 📸 Application Screenshots
 ### 🏠 Home Page
 
-Add your screenshot here
-
-images/home.png
 ### 🩸 Kidney Prediction
 
-Add your screenshot here
-
-images/kidney.png
 ### 🫀 Liver Prediction
 
-Add your screenshot here
-
-images/liver.png
 ### 🧠 Parkinson's Prediction
 
-Add your screenshot here
-
-images/parkinsons.png
 ## 📊 Project Workflow
-Patient Details
-       │
-       ▼
-Input Validation
-       │
-       ▼
-Preprocessing
-       │
-       ▼
-Machine Learning Model
-       │
-       ▼
-Disease Prediction
-       │
-       ▼
-Prediction Result
+ Patient Details
+        │
+        ▼
+ Input Validation
+        │
+        ▼
+ Preprocessing
+        │
+        ▼
+ Machine Learning Model
+        │
+        ▼
+ Disease Prediction
+        │
+        ▼
+ Prediction Result
 ## 💻 Installation
 
 Clone the repository
@@ -250,13 +242,13 @@ Showcasing machine learning deployment.
 📱 Mobile Responsive Interface
 🩺 Doctor Recommendation System
 # 👨‍💻 Author
-## Selvakumaran Muthusamy Aspiring Data Scientist
+## SELVAKUMARAN MUTHUSAMY Aspiring Data Scientist
 
 ### 💻 GitHub: https://github.com/selvakumaran-datascience
 
-### 📧 Email: your-email@example.com
+### 📧 Email: selvakumaran416@gmail.com
 
-### 💼 LinkedIn: Add your LinkedIn Profile
+### 💼 LinkedIn: linkedin.com/in/selvakumaran-muthusamy-376831379
 
 ⭐ Support
 
