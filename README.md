@@ -138,30 +138,30 @@ Model Serialization (.pkl)
 Streamlit Deployment
 
 ## 📂 Project Structure
-AI-Health-Assistant/
-│
-├── app.py
-├── kidneydata.ipynb
-├── liverdata.ipynb
-├── parkinsonsdata.ipynb
-│
-├── best_kidney_model.pkl
-├── best_liver_model.pkl
-├── best_parkinsons_model.pkl
-│
-├── requirements.txt
-├── README.md
-│
-├── dataset/
-│     ├── kidney.csv
-│     ├── liver.csv
-│     └── parkinsons.csv
-│
-└── images/
-      ├── home.png
-      ├── kidney.png
-      ├── liver.png
-      ├── parkinsons.png
+AI-Health-Assistant/  
+│  
+├── app.py  
+├── kidneydata.ipynb  
+├── liverdata.ipynb  
+├── parkinsonsdata.ipynb  
+│  
+├── best_kidney_model.pkl  
+├── best_liver_model.pkl  
+├── best_parkinsons_model.pkl  
+│  
+├── requirements.txt  
+├── README.md  
+│  
+├── dataset/  
+│     ├── kidney.csv  
+│     ├── liver.csv  
+│     └── parkinsons.csv  
+│  
+└── images/  
+      ├── home.png  
+      ├── kidney.png  
+      ├── liver.png  
+      ├── parkinsons.png  
       
 ## 📸 Application Screenshots
 ### 🏠 Home Page
@@ -175,19 +175,19 @@ AI-Health-Assistant/
 ## 📊 Project Workflow
  Patient Details  
         │   
-        ▼
+        ▼  
  Input Validation  
         │    
-        ▼
+        ▼  
  Preprocessing  
         │  
-        ▼
+        ▼  
  Machine Learning Model  
         │  
-        ▼
+        ▼  
  Disease Prediction  
         │  
-        ▼
+        ▼  
  Prediction Result
 ## 💻 Installation
 
