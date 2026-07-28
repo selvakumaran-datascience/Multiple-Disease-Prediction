@@ -107,31 +107,31 @@ Development	Jupyter Notebook
 Visualization	Matplotlib, Seaborn
 
 ## 🧠 Machine Learning Workflow
-Medical Dataset
+Medical Dataset  
        │
        ▼
        
-Data Cleaning
+Data Cleaning  
        │       
        ▼
        
-Exploratory Data Analysis
+Exploratory Data Analysis  
        │       
        ▼
        
-Feature Engineering
+Feature Engineering  
        │     
        ▼
        
-Model Training
+Model Training  
        │  
        ▼
        
-Model Evaluation
+Model Evaluation  
        │  
        ▼
        
-Model Serialization (.pkl)
+Model Serialization (.pkl)  
        │ 
        ▼
        
