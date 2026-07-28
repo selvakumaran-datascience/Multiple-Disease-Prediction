@@ -1,4 +1,4 @@
-# 🩺 AI Health Assistant – Multi Disease Prediction System
+🩺 AI Health Assistant – Multi Disease Prediction System
 <div align="center">
    
 # 🏥 AI-Powered Disease Prediction System
