@@ -108,26 +108,41 @@ Visualization	Matplotlib, Seaborn
 
 ## 🧠 Machine Learning Workflow
 Medical Dataset
+
        │
+       
        ▼
+       
 Data Cleaning
        │
+       
        ▼
+       
 Exploratory Data Analysis
        │
+       
        ▼
+       
 Feature Engineering
        │
+       
        ▼
+       
 Model Training
        │
+       
        ▼
+       
 Model Evaluation
        │
+       
        ▼
+       
 Model Serialization (.pkl)
        │
+       
        ▼
+       
 Streamlit Deployment
 
 ## 📂 Project Structure
@@ -186,11 +201,11 @@ AI-Health-Assistant/
 
 Clone the repository
 
-git clone https://github.com/yourusername/AI-Health-Assistant.git
+git clone https://github.com/selvakumaran-datascience/Multiple-Disease-Prediction.git
 
 Move into the project folder
 
-cd AI-Health-Assistant
+cd Multiple-Disease-Prediction
 
 Install dependencies
 
@@ -248,7 +263,7 @@ Showcasing machine learning deployment.
 
 ### 📧 Email: selvakumaran416@gmail.com
 
-### 💼 LinkedIn: linkedin.com/in/selvakumaran-muthusamy-376831379
+### 💼 LinkedIn: https://linkedin.com/in/selvakumaran-muthusamy-376831379
 
 ⭐ Support
 
