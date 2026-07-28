@@ -108,8 +108,7 @@ Visualization	Matplotlib, Seaborn
 
 ## 🧠 Machine Learning Workflow
 Medical Dataset  
-       │
-       
+       │  
        ▼
        
 Data Cleaning  
@@ -133,8 +132,7 @@ Model Evaluation
        ▼
        
 Model Serialization (.pkl)  
-       │ 
-       
+       │  
        ▼
        
 Streamlit Deployment
